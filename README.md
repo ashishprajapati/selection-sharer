@@ -1,6 +1,9 @@
 # selection-sharer
 
 Popover menu to share on Twitter or by email any text selected on the page with support for mobile devices (with a popunder).
+
+![selection sharer screenshot](http://f.cl.ly/items/282u1E2K0C2K0i1W3P0G/selection-sharer-screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
